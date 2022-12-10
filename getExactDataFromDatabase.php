@@ -70,3 +70,5 @@ break;
 
 
 }
+
+$ourExactData = loadData($limit,$db2,$minimum);
